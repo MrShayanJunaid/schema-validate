@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<staff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd">
+    <employees>
+        <id>1490771</id>
+        <name>Shayan</name>
+        <salary>100000</salary>
+    </employees>
+
+    <employees>
+        <id>1490772</id>
+        <name>Hasnain</name>
+        <salary>150000</salary>
+    </employees>
+
+    <employees>
+        <id>1490773</id>
+        <name>Rehan</name>
+        <salary>100000</salary>
+    </employees>
+</staff>
